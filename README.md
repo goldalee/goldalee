@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @goldalee
-- 👀 I’m interested in Python, R, Golang, Rust, JavaScript and React.
-- 🌱 I’m currently learning Fullstack development, Data Analysis and Machine Learning.
-- 💞️ I’m looking to collaborate on Web Applications and Data Projects.
+- 👀 I’m interested in Python, R, SQL, Golang, Rust, JavaScript and React.
+- 🌱 I’m currently learning Data Analysis, Machine Learning and Fullstack development,.
+- 💞️ I’m looking to collaborate on Data Projects and Web Applications.
 - 📫 How to reach me goldalee.sawyers@gmail.com
 
 <!---
