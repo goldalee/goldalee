@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goldalee
-- 👀 I’m interested in SQL, C# .Net, C, Rust, JavaScript, Typescript, Python and R.
-- 🌱 I’m currently learning Fullstack Web development, Statistical Analysis, and Machine Learning. 
+- 👀 I’m interested in C#.Net, C, C++, Java, SQL, Rust, JavaScript, Typescript, Python and R.
+- 🌱 I’m currently learning Fullstack Web development, API Development, Statistical Analysis, and Machine Learning. 
 - 💞️ I’m looking to collaborate on Web Applications and Data Projects.
 - 📫 How to reach me: goldalee.sawyers@gmail.com
 
